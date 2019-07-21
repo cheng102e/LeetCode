@@ -1,6 +1,6 @@
 
+_squid:S1126"AReplace this if-then-else statement by a single return statement.(¥¡¿Œ8ä‡’ùÀ-
 1squid:S1220""Move this file to a named package.
 |squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ú¥„úøÿÿÿÿ8ä‡’ùÀ-
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(Ž½Ž¦ÿÿÿÿÿ
-_squid:S1126"AReplace this if-then-else statement by a single return statement.(¥¡¿Œ8ä‡’ùÀ-
