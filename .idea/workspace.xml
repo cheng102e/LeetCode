@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9189d315-1302-460e-9080-262b39414fc8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1047.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1047.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,17 +16,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Q169.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="3" selection-start-line="2" selection-start-column="2" selection-end-line="16" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -80,13 +71,15 @@
         <option value="$PROJECT_DIR$/src/Q12.java" />
         <option value="$PROJECT_DIR$/src/Q1047.java" />
         <option value="$PROJECT_DIR$/src/Q169.java" />
+        <option value="$PROJECT_DIR$/src/Q38.java" />
+        <option value="$PROJECT_DIR$/src/Q1103.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="width" value="979" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -95,7 +88,26 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -127,7 +139,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Q38">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Q0" />
       <module name="LeetCode" />
@@ -138,8 +150,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q38" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q38" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -158,6 +178,9 @@
       <workItem from="1563669672209" duration="5724000" />
       <workItem from="1563757472325" duration="2541000" />
       <workItem from="1563784376900" duration="1408000" />
+      <workItem from="1563934704159" duration="2966000" />
+      <workItem from="1563954530160" duration="60000" />
+      <workItem from="1564014480248" duration="1847000" />
     </task>
     <task id="LOCAL-00001" summary="7.21(增加12和1047)">
       <created>1563676552975</created>
@@ -173,24 +196,37 @@
       <option name="project" value="LOCAL" />
       <updated>1563760092895</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="7.24(增加38)">
+      <created>1563936704411</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1563936704411</updated>
+    </task>
+    <task id="LOCAL-00004" summary="7.25(增加1103)">
+      <created>1564022883213</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564022883213</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11198000" />
+    <option name="totallyTimeSpent" value="16071000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="761" y="0" width="782" height="831" extended-state="0" />
-    <editor active="true" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.5753804" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.57506704" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Learn" order="7" weight="0.32918397" />
+      <window_info id="Learn" order="7" weight="0.32908848" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.33286119" />
@@ -301,7 +337,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="7.21(增加12和1047)" />
     <MESSAGE value="7.22(增加169)" />
-    <option name="LAST_COMMIT_MESSAGE" value="7.22(增加169)" />
+    <MESSAGE value="7.24(增加38)" />
+    <MESSAGE value="7.25(增加1103)" />
+    <option name="LAST_COMMIT_MESSAGE" value="7.25(增加1103)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Q3.java" />
@@ -612,6 +650,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="16" column="3" selection-start-line="2" selection-start-column="2" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q38.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q1103.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#63#64#0" expanded="true" />
+            <element signature="e#107#108#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
