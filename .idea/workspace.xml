@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9189d315-1302-460e-9080-262b39414fc8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Q334.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/096e73ef75a9a7623f014642b3c1b547285d71b0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/096e73ef75a9a7623f014642b3c1b547285d71b0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1047.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1047.class" afterDir="false" />
-    </list>
+    <list default="true" id="9189d315-1302-460e-9080-262b39414fc8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +109,7 @@
       <workItem from="1564131942623" duration="120000" />
       <workItem from="1564189397669" duration="31000" />
       <workItem from="1564190266187" duration="8716000" />
-      <workItem from="1564276951831" duration="1753000" />
+      <workItem from="1564276951831" duration="2024000" />
     </task>
     <task id="LOCAL-00001" summary="7.21(增加12和1047)">
       <created>1563676552975</created>
@@ -145,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564022883213</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="7.28(334)">
+      <created>1564281192313</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1564281192313</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +185,7 @@
     <MESSAGE value="7.24(增加38)" />
     <MESSAGE value="7.25(增加1103)" />
     <MESSAGE value="7.25(维护)" />
-    <option name="LAST_COMMIT_MESSAGE" value="7.25(维护)" />
+    <MESSAGE value="7.28(334)" />
+    <option name="LAST_COMMIT_MESSAGE" value="7.28(334)" />
   </component>
 </project>
