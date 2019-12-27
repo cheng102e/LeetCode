@@ -10,7 +10,6 @@ public class Q121 {
       min = Math.min(min, prices[i]);
     }
     return max;
-
   }
 
   public static void main(String[] args) {

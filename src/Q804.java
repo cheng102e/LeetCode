@@ -1,6 +1,6 @@
 import java.util.HashSet;
 
-public class Q84 {
+public class Q804 {
 
   public static int uniqueMorseRepresentations(String[] words) {
     String[] codes = {".-", "-...", "-.-.", "-..", ".", "..-.", "--.", "....", "..", ".---", "-.-",

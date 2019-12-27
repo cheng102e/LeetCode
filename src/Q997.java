@@ -1,4 +1,4 @@
-public class Q998 {
+public class Q997 {
 
   public int findJudge(int N, int[][] trust) {
     int[][] people = new int[N][2];

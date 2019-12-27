@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9189d315-1302-460e-9080-262b39414fc8" name="Default Changelist" comment="" />
+    <list default="true" id="9189d315-1302-460e-9080-262b39414fc8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/05aaa0ec0de6e6453737aa0678a8af55128936fa" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/05aaa0ec0de6e6453737aa0678a8af55128936fa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/0637df55bbe3d6e96ad22cabd4cc56898aa9258b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/0637df55bbe3d6e96ad22cabd4cc56898aa9258b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/096e73ef75a9a7623f014642b3c1b547285d71b0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/096e73ef75a9a7623f014642b3c1b547285d71b0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/16265a5a4f0ac61f9527293adce79d09b5a33c7c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/16265a5a4f0ac61f9527293adce79d09b5a33c7c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1b9de9a1bd84c436994d4ee6e0e612c6b6c38306" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1b9de9a1bd84c436994d4ee6e0e612c6b6c38306" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1bcd5146478e40ca58c33701348d92adfc81d7f2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1bcd5146478e40ca58c33701348d92adfc81d7f2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/2654c8180fe8ca2914c056cb7488855456fd8a95" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/2654c8180fe8ca2914c056cb7488855456fd8a95" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/2924f01fa8cd1a5aa90fe57b8c69e99bb9a26991" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/29d7d0751c51a9ee420e758992c1113ee0effe5b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/29d7d0751c51a9ee420e758992c1113ee0effe5b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2b3b0adbdc34ca79c7a77228aa6b97af7c92bf9d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2b3b0adbdc34ca79c7a77228aa6b97af7c92bf9d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2def805ee1ddc35d5673fbd81da5e600461fa860" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2def805ee1ddc35d5673fbd81da5e600461fa860" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e149c938e6655a7e97771efbd9039c6cef468cc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e149c938e6655a7e97771efbd9039c6cef468cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/3618fd121104ad2f1c96f957358a19fce9029f79" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/3618fd121104ad2f1c96f957358a19fce9029f79" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4f1950fcd6bb2593920ba3dfb073b6c816b30525" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4f1950fcd6bb2593920ba3dfb073b6c816b30525" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/561fe2346a3101b0121c7fefa3434e6884cf8806" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/561fe2346a3101b0121c7fefa3434e6884cf8806" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/56ac6c67a8e9c732f248f9b7bd1688aca05dedb2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/56ac6c67a8e9c732f248f9b7bd1688aca05dedb2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/56d1aa41a040b23ea33d54943cf396487ee23a1e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/56d1aa41a040b23ea33d54943cf396487ee23a1e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/611ddace700c16b88b3d68b52aaa098cb1ee67fa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/73c7b2a6c0e5ded1d60cfdb8e0376ed6bbe95b2b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/73c7b2a6c0e5ded1d60cfdb8e0376ed6bbe95b2b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/759ed8fa8b4cf0b13f3adc9872ad0e421c117799" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/759ed8fa8b4cf0b13f3adc9872ad0e421c117799" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/77e1c427238271eadebf134464b086cbf3e756b9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/77e1c427238271eadebf134464b086cbf3e756b9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/790a96377cb21079e07da8c314dc8deebad93c7c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/790a96377cb21079e07da8c314dc8deebad93c7c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82933e8dbce0cd0d2bce4709cfc38147b0cda7b0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82933e8dbce0cd0d2bce4709cfc38147b0cda7b0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a39d627ef16656f8d4a5dd71507574a7d1fad70" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a39d627ef16656f8d4a5dd71507574a7d1fad70" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/aca25ab7a855f59399c45489f4c3dfa579c6d789" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/aca25ab7a855f59399c45489f4c3dfa579c6d789" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c60fe47b0d0051ea528d87462b807f5051db2062" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c60fe47b0d0051ea528d87462b807f5051db2062" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd994b27ef9e5911a2c75e97402087f697ba0a32" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd994b27ef9e5911a2c75e97402087f697ba0a32" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d6fb8a5b8d236ea2d4a06c9951a78d32b264a5aa" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d6fb8a5b8d236ea2d4a06c9951a78d32b264a5aa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/da55002b1b8eac4a810f64b9cddf166b052789ad" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/da55002b1b8eac4a810f64b9cddf166b052789ad" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e57dcc9b9da345f137f1dc88f1af880f02f647bb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e57dcc9b9da345f137f1dc88f1af880f02f647bb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e92219b2e3d39f207505a4a786d7f60fe6efcb59" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e92219b2e3d39f207505a4a786d7f60fe6efcb59" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/eca3a847ade9393950e451a891ca79175abfaed1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/eca3a847ade9393950e451a891ca79175abfaed1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q0.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q0.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q112.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q112.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q121.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q121.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q125$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q125.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q125.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q84.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q998.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q112.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q112.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q121.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q121.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q125.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q125.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q84.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q804.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q998.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q997.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +78,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/codeall/Sudoku" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -55,7 +103,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q316">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Q0" />
       <module name="LeetCode" />
@@ -82,9 +130,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Q316" />
         <item itemvalue="Application.Q38" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -110,6 +158,16 @@
       <workItem from="1564189397669" duration="31000" />
       <workItem from="1564190266187" duration="8716000" />
       <workItem from="1564276951831" duration="2024000" />
+      <workItem from="1564449989247" duration="598000" />
+      <workItem from="1564637930047" duration="1444000" />
+      <workItem from="1565255912110" duration="1224000" />
+      <workItem from="1565263909017" duration="43000" />
+      <workItem from="1569241617706" duration="287000" />
+      <workItem from="1574698539813" duration="518000" />
+      <workItem from="1575377563123" duration="23000" />
+      <workItem from="1577023503424" duration="655000" />
+      <workItem from="1577024402954" duration="356000" />
+      <workItem from="1577435400942" duration="1459000" />
     </task>
     <task id="LOCAL-00001" summary="7.21(增加12和1047)">
       <created>1563676552975</created>
