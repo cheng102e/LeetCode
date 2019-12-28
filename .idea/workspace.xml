@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9189d315-1302-460e-9080-262b39414fc8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Q13.java" afterDir="false" />
+    <list default="true" id="9189d315-1302-460e-9080-262b39414fc8" name="Default Changelist" comment="7.28(334)">
+      <change afterPath="$PROJECT_DIR$/src/Q628.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q70.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5af9a7eb15c0b43de1934c300e1cda48328d5a14" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5af9a7eb15c0b43de1934c300e1cda48328d5a14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e92219b2e3d39f207505a4a786d7f60fe6efcb59" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e92219b2e3d39f207505a4a786d7f60fe6efcb59" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q0.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +131,8 @@
       <workItem from="1577023503424" duration="655000" />
       <workItem from="1577024402954" duration="356000" />
       <workItem from="1577435400942" duration="1459000" />
-      <workItem from="1577439301660" duration="1924000" />
+      <workItem from="1577439301660" duration="3717000" />
+      <workItem from="1577521455851" duration="4919000" />
     </task>
     <task id="LOCAL-00001" summary="7.21(增加12和1047)">
       <created>1563676552975</created>
@@ -209,6 +212,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="7.28(334)" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="372" y="0" key="CommitChangelistDialog2" timestamp="1577528143259">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="372" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1080.0.864.1496@0.0.1536.824" timestamp="1577528143259" />
     <state x="410" y="139" width="700" height="530" key="recent.locations.popup" timestamp="1577439509959">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
