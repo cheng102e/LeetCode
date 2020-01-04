@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9189d315-1302-460e-9080-262b39414fc8" name="Default Changelist" comment="12.28">
-      <change afterPath="$PROJECT_DIR$/src/Q66.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q69.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q136.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q231.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q263.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q0.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q0.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +144,9 @@
       <workItem from="1577672745370" duration="227000" />
       <workItem from="1577761454658" duration="1783000" />
       <workItem from="1577839257644" duration="2540000" />
-      <workItem from="1577847943177" duration="931000" />
+      <workItem from="1577847943177" duration="1686000" />
+      <workItem from="1578103679122" duration="2221000" />
+      <workItem from="1578117266705" duration="3153000" />
     </task>
     <task id="LOCAL-00001" summary="7.21(增加12和1047)">
       <created>1563676552975</created>
