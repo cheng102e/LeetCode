@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9189d315-1302-460e-9080-262b39414fc8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Q100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q283.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e92219b2e3d39f207505a4a786d7f60fe6efcb59" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e92219b2e3d39f207505a4a786d7f60fe6efcb59" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -155,7 +156,8 @@
       <workItem from="1578103679122" duration="2221000" />
       <workItem from="1578117266705" duration="3272000" />
       <workItem from="1578189980745" duration="3106000" />
-      <workItem from="1578391271452" duration="3214000" />
+      <workItem from="1578391271452" duration="3455000" />
+      <workItem from="1578486418772" duration="2072000" />
     </task>
     <task id="LOCAL-00001" summary="7.21(增加12和1047)">
       <created>1563676552975</created>
