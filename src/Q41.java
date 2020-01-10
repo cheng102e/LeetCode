@@ -1,9 +1,9 @@
 /**
  * @author Cheng102e
  * @version 1.0
- * @date 2020/1/5 10:47
+ * @date 2020/1/10 20:48
  */
-public class AT {
+public class Q41 {
 
   private static void swap(int nums[], int a, int b) {
     int c = nums[a];
@@ -30,9 +30,6 @@ public class AT {
   }
 
   public static void main(String[] args) {
-    int[] num = new int[]{3, 4, -1, 1};
-    int n = firstMissingPositive(num);
-    System.out.println(n);
-
+    System.out.println("Hello World!");
   }
 }
