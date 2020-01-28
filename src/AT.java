@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 /**
  * @author Cheng102e
  * @version 1.0
@@ -5,34 +7,32 @@
  */
 public class AT {
 
-  private static void swap(int nums[], int a, int b) {
-    int c = nums[a];
-    nums[a] = nums[b];
-    nums[b] = c;
-  }
-
-  public static int firstMissingPositive(int[] nums) {
-    if (nums == null || nums.length == 0) {
-      return 1;
-    }
-    for (int i = 0; i < nums.length; i++) {
-      while (nums[i] > 0 && nums[i] < nums.length && nums[i] != nums[nums[i] - 1]) {
-        swap(nums, i, nums[i] - 1);
+  public static int findRadius(int[] houses, int[] heaters) {
+    Arrays.sort(houses);
+    Arrays.sort(heaters);
+    int radius = 0;
+    int count = 0;
+    for (int i = 0; i < houses.length; i++) {
+      while (count < heaters.length && houses[i] < heaters[count]) {
+        count++;
+      }
+      if (count == 0) {
+        radius = Math.max(radius, heaters[count] - houses[i]);
+      } else if (count >= heaters.length) {
+        radius = Math.max(radius, houses[houses.length - 1] - heaters[heaters.length - 1]);
+      } else {
+        radius = Math
+            .max(radius, Math.max(heaters[count + 1] - houses[i], houses[i] - heaters[count]));
       }
     }
-
-    for (int i = 0; i < nums.length; i++) {
-      if (nums[i] != i + 1) {
-        return i + 1;
-      }
-    }
-    return nums.length + 1;
+    return radius;
   }
 
   public static void main(String[] args) {
-    int[] num = new int[]{3, 4, -1, 1};
-    int n = firstMissingPositive(num);
-    System.out.println(n);
+    int[] houses = new int[]{1, 2, 3, 4};
+    int[] heaters = new int[]{1, 4};
+
+    System.out.println(findRadius(houses, heaters));
 
   }
 }
