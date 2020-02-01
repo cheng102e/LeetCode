@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9189d315-1302-460e-9080-262b39414fc8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Q167.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q189.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1051.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -166,7 +164,8 @@
       <workItem from="1580118103422" duration="1866000" />
       <workItem from="1580194345019" duration="1818000" />
       <workItem from="1580380818190" duration="3693000" />
-      <workItem from="1580440700040" duration="3845000" />
+      <workItem from="1580440700040" duration="5590000" />
+      <workItem from="1580564984998" duration="2059000" />
     </task>
     <task id="LOCAL-00001" summary="7.21(增加12和1047)">
       <created>1563676552975</created>
