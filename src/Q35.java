@@ -1,15 +1,13 @@
-import java.util.Arrays;
-
 /**
  * @author Cheng102e
  * @version 1.0
- * @date 2020/1/5 10:47
+ * @date 2020/2/3 13:11
  */
-public class AT {
+public class Q35 {
 
   public static int searchInsert(int[] nums, int target) {
     if (nums.length == 0) {
-      return -1;
+      return 0;
     }
     int left = 0;
     int right = nums.length - 1;
@@ -28,10 +26,6 @@ public class AT {
   }
 
   public static void main(String[] args) {
-    int[] nums = new int[]{1,3,5,6};
-    int target = 2;
-
-    System.out.println(searchInsert(nums, target));
-
+    System.out.println("Hello World!");
   }
 }
