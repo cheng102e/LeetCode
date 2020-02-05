@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9189d315-1302-460e-9080-262b39414fc8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Q1295.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q976.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -170,6 +170,7 @@
       <workItem from="1580622410220" duration="9266000" />
       <workItem from="1580698767577" duration="7903000" />
       <workItem from="1580786582387" duration="637000" />
+      <workItem from="1580868688039" duration="1525000" />
     </task>
     <task id="LOCAL-00001" summary="7.21(增加12和1047)">
       <created>1563676552975</created>
