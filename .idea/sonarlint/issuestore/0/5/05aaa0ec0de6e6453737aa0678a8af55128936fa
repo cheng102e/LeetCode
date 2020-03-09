@@ -1,8 +1,0 @@
-
-„"squid:ClassVariableVisibilityCheck"OMake val a static final constant or non-public and provide accessors if needed.(Ô¸úÏ8­³ÜøÀ-
-T
-squid:S106!"9Replace this use of System.out or System.err by a logger.(½¦ÿÿÿÿÿ
-usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÜçÆüÿÿÿÿ8­³ÜøÀ-
-1squid:S1220""Move this file to a named package.
-usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÜçÆüÿÿÿÿ8­³ÜøÀ-
-‰"squid:ClassVariableVisibilityCheck"TMake children a static final constant or non-public and provide accessors if needed.(ş“îÍ8­³ÜøÀ-

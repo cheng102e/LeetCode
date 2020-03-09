@@ -1,10 +1,0 @@
-
-Vsquid:S1197	"8Move the array designator from the variable to the type.(¢­ÊÑ8ñááøÀ-
-Vsquid:S1197"8Move the array designator from the variable to the type.(®Ÿªå8êÄáøÀ-
-[
-squid:S1067"9Replace this use of System.out or System.err by a logger.(½¦ÿÿÿÿÿ8ñááøÀ-
-Vsquid:S1197"8Move the array designator from the variable to the type.(Û­­µ8êÄáøÀ-
-|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾ªƒıÿÿÿÿ8ñááøÀ-
-1squid:S1220""Move this file to a named package.
-[squid:S1197
-"8Move the array designator from the variable to the type.(ê†ø€üÿÿÿÿ8ñááøÀ-

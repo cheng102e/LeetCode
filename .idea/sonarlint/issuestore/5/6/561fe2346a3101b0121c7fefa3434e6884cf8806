@@ -1,10 +1,0 @@
-
-1squid:S1220""Move this file to a named package.
-Esquid:S1905
-"'Remove this unnecessary cast to "char".(ñÚ8ú†ŠùÀ-
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(½¦ÿÿÿÿÿ
-nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ŒÏÚúÿÿÿÿ8ú†ŠùÀ-
-?squid:S1643"Use a StringBuilder instead.(ÀÇÆÿÿÿÿÿ8ú†ŠùÀ-
-:squid:S1643
-"Use a StringBuilder instead.(ñÚ8ú†ŠùÀ-
