@@ -2,48 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9189d315-1302-460e-9080-262b39414fc8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Question/Q322.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/05aaa0ec0de6e6453737aa0678a8af55128936fa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/0637df55bbe3d6e96ad22cabd4cc56898aa9258b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/096e73ef75a9a7623f014642b3c1b547285d71b0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/16265a5a4f0ac61f9527293adce79d09b5a33c7c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1b9de9a1bd84c436994d4ee6e0e612c6b6c38306" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1bcd5146478e40ca58c33701348d92adfc81d7f2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/3/23f85f7e799605d51db4a4c64e408cfbb3391afb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/2654c8180fe8ca2914c056cb7488855456fd8a95" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/29d7d0751c51a9ee420e758992c1113ee0effe5b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2b3b0adbdc34ca79c7a77228aa6b97af7c92bf9d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2def805ee1ddc35d5673fbd81da5e600461fa860" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e149c938e6655a7e97771efbd9039c6cef468cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/3618fd121104ad2f1c96f957358a19fce9029f79" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4f1950fcd6bb2593920ba3dfb073b6c816b30525" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/561fe2346a3101b0121c7fefa3434e6884cf8806" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/56ac6c67a8e9c732f248f9b7bd1688aca05dedb2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/56d1aa41a040b23ea33d54943cf396487ee23a1e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5af9a7eb15c0b43de1934c300e1cda48328d5a14" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5ed933dfd53c98249e8630a1e7617e00773407b9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/694a565cbc274ca0dc0784666e6efff717a40ab6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/73c7b2a6c0e5ded1d60cfdb8e0376ed6bbe95b2b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/759ed8fa8b4cf0b13f3adc9872ad0e421c117799" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/7783f528cba1ba1b2d53b98db20268ad8af8e49a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/77e1c427238271eadebf134464b086cbf3e756b9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/790a96377cb21079e07da8c314dc8deebad93c7c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82933e8dbce0cd0d2bce4709cfc38147b0cda7b0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a39d627ef16656f8d4a5dd71507574a7d1fad70" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/aca25ab7a855f59399c45489f4c3dfa579c6d789" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c60fe47b0d0051ea528d87462b807f5051db2062" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd994b27ef9e5911a2c75e97402087f697ba0a32" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d1efafe02c1aeaf500a041f667f3c56f05d30902" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d6fb8a5b8d236ea2d4a06c9951a78d32b264a5aa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/da55002b1b8eac4a810f64b9cddf166b052789ad" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e57dcc9b9da345f137f1dc88f1af880f02f647bb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e92219b2e3d39f207505a4a786d7f60fe6efcb59" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/eca3a847ade9393950e451a891ca79175abfaed1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6099a2734d04146c730d4b3843622251b16d0cd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fdbb6b2ed2d991e40d4893382424c736b257ace5" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question/Q1013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question/Q1071.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Question/AT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/AT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1021.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1047.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q112.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q120.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q121.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q122.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q125.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q151.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q153.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q217.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q258.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q389.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q414.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q504.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q51.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q52.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q551.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q559$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q559.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q62.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q63.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q695.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q709.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q712.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q72.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q728.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q754.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q836.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q866.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q899.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q931.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q962.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q977.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/AT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/AT.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,6 +246,10 @@
       <workItem from="1583546589996" duration="4746000" />
       <workItem from="1583632384242" duration="4710000" />
       <workItem from="1583717954972" duration="1689000" />
+      <workItem from="1583729385958" duration="772000" />
+      <workItem from="1583751410789" duration="5118000" />
+      <workItem from="1583889305712" duration="1714000" />
+      <workItem from="1583984450175" duration="604000" />
     </task>
     <task id="LOCAL-00001" summary="7.21(增加12和1047)">
       <created>1563676552975</created>
@@ -362,26 +367,26 @@
     </state>
     <state x="543" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583547875055" />
     <state x="543" y="178" key="FileChooserDialogImpl/0.22.1536.842@0.22.1536.842" timestamp="1582081042135" />
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1583504506407">
+    <state width="722" height="212" key="GridCell.Tab.0.bottom" timestamp="1583809249280">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1578193757780" />
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583504506407" />
-    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1583504506407">
+    <state width="722" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583809249280" />
+    <state width="722" height="212" key="GridCell.Tab.0.center" timestamp="1583809249280">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1578193757780" />
-    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583504506407" />
-    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1583504506407">
+    <state width="722" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583809249280" />
+    <state width="722" height="212" key="GridCell.Tab.0.left" timestamp="1583809249280">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1578193757780" />
-    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583504506407" />
-    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1583504506407">
+    <state width="722" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583809249280" />
+    <state width="722" height="212" key="GridCell.Tab.0.right" timestamp="1583809249280">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1578193757780" />
-    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583504506407" />
+    <state width="722" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583809249280" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1580732427930">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
