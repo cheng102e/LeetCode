@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9189d315-1302-460e-9080-262b39414fc8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Question/Q101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question/Q1038.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question/Q141.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question/Q155.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question/Q21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question/Q226.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question/Q300.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question/Q538.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question/Q617.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question/M0106.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question/Q1160.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question/Q160.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question/Q206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question/Q234.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question/Q543.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test/AT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/AT.java" afterDir="false" />
     </list>
@@ -221,7 +219,10 @@
       <workItem from="1583984450175" duration="604000" />
       <workItem from="1583996036057" duration="200000" />
       <workItem from="1584010707467" duration="5795000" />
-      <workItem from="1584081038238" duration="13223000" />
+      <workItem from="1584081038238" duration="21202000" />
+      <workItem from="1584238305582" duration="1794000" />
+      <workItem from="1584320209848" duration="10150000" />
+      <workItem from="1584497925088" duration="5507000" />
     </task>
     <task id="LOCAL-00001" summary="7.21(增加12和1047)">
       <created>1563676552975</created>
@@ -339,26 +340,26 @@
     </state>
     <state x="543" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583996233789" />
     <state x="543" y="178" key="FileChooserDialogImpl/0.22.1536.842@0.22.1536.842" timestamp="1582081042135" />
-    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1584023562683">
+    <state width="724" height="213" key="GridCell.Tab.0.bottom" timestamp="1584195482037">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1578193757780" />
-    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584023562683" />
-    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1584023562683">
+    <state width="724" height="213" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584195482037" />
+    <state width="724" height="213" key="GridCell.Tab.0.center" timestamp="1584195482037">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1578193757780" />
-    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584023562683" />
-    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1584023562683">
+    <state width="724" height="213" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584195482037" />
+    <state width="724" height="213" key="GridCell.Tab.0.left" timestamp="1584195482036">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1578193757780" />
-    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584023562683" />
-    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1584023562683">
+    <state width="724" height="213" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584195482036" />
+    <state width="724" height="213" key="GridCell.Tab.0.right" timestamp="1584195482037">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1578193757780" />
-    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584023562683" />
+    <state width="724" height="213" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584195482037" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1580732427930">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -397,9 +398,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1581418585099" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1582803277629">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584322017114">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582803277629" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584322017114" />
   </component>
 </project>
