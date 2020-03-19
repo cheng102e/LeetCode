@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9189d315-1302-460e-9080-262b39414fc8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Question/M0106.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question/Q1160.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question/Q160.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question/Q206.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question/Q234.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question/Q543.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/AT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/AT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question/Q409.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,6 +215,7 @@
       <workItem from="1584238305582" duration="1794000" />
       <workItem from="1584320209848" duration="10150000" />
       <workItem from="1584497925088" duration="5507000" />
+      <workItem from="1584581137544" duration="270000" />
     </task>
     <task id="LOCAL-00001" summary="7.21(增加12和1047)">
       <created>1563676552975</created>
