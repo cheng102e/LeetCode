@@ -1,4 +1,4 @@
-package Interview;
+package Question;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
@@ -8,7 +8,7 @@ import java.util.Deque;
  * @version 1.0
  * @date 2020-03-07 10:43
  */
-public class I59 {
+public class M59 {
 
   private Deque<Integer> queue;
   private Deque<Integer> max;

@@ -1,11 +1,11 @@
-package Interview;
+package Question;
 
 /**
  * @author Cheng102e
  * @version 1.0
  * @date 2020-03-07 10:42
  */
-public class I60 {
+public class M60 {
   public double[] twoSum(int n) {
     int[][] dp = new int[n + 1][6 * n + 1];
     double[] ans = new double[5 * n + 1];
