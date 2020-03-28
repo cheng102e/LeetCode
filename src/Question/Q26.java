@@ -15,7 +15,7 @@ public class Q26 {
         nums[index] = nums[i];
       }
     }
-    return index+1;
+    return index + 1;
   }
 
   public static void main(String[] args) {

@@ -19,7 +19,6 @@ public class Q559 {
   }
 
 
-
   public int maxDepth(Node root) {
     if (root == null) {
       return 0;

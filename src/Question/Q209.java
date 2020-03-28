@@ -22,7 +22,7 @@ public class Q209 {
         left++;
       }
     }
-    if(min== Integer.MAX_VALUE){
+    if (min == Integer.MAX_VALUE) {
       return 0;
     }
     return min;

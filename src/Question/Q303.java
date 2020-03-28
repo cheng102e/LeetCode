@@ -10,8 +10,7 @@ public class Q303 {
   private int[] sum;
 
   public void NumArray(int[] nums) {
-    if(nums.length==0)
-    {
+    if (nums.length == 0) {
       return;
     }
     sum = new int[nums.length];

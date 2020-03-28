@@ -32,11 +32,11 @@ public class M59 {
   }
 
   public int pop_front() {
-    if(queue.isEmpty()) {
+    if (queue.isEmpty()) {
       return -1;
     }
     int val = queue.pop();
-    if(max.peek() == val) {
+    if (max.peek() == val) {
       max.pop();
     }
     return val;

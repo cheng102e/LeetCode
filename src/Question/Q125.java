@@ -17,6 +17,7 @@ public class Q125 {
     }
     return str.toString().equals(str.reverse().toString());
   }
+
   public static void main(String[] args) {
     System.out.println("Hello World!");
   }

@@ -12,7 +12,7 @@ public class Q69 {
       return x;
     }
     int start = 0;
-    int end = x ;
+    int end = x;
     while (end - start >= 1) {
       int mid = (start + end) / 2;
 
