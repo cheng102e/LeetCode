@@ -9,16 +9,16 @@ import java.util.PriorityQueue;
  */
 public class M40 {
 
-  public int[] getLeastNumbers(int[] arr, int k) {
-    PriorityQueue<Integer> heap =
-        new PriorityQueue<Integer>((n1, n2) -> n1 - n2);
-    for (int n : arr) {
-      heap.add(n);
+    public int[] getLeastNumbers(int[] arr, int k) {
+        PriorityQueue<Integer> heap =
+                new PriorityQueue<Integer>((n1, n2) -> n1 - n2);
+        for (int n : arr) {
+            heap.add(n);
+        }
+        int[] ans = new int[k];
+        for (int i = 0; i < k; i++) {
+            ans[i] = heap.poll();
+        }
+        return ans;
     }
-    int[] ans = new int[k];
-    for (int i = 0; i < k; i++) {
-      ans[i] = heap.poll();
-    }
-    return ans;
-  }
 }
