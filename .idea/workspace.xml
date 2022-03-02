@@ -1,14 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9189d315-1302-460e-9080-262b39414fc8" name="Default Changelist" comment="2022.01.16">
-      <change afterPath="$PROJECT_DIR$/src/Question/Q539.java" afterDir="false" />
+    <list default="true" id="9189d315-1302-460e-9080-262b39414fc8" name="Default Changelist" comment="2022.03.02">
+      <change afterPath="$PROJECT_DIR$/src/Anothers/tmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q1189.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q1414.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q1447.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q1725.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q1748.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q1763.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q1791.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q1984.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q2000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q2006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q2016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q537.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q540.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q553.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q717.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/M0106.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/M0106.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/M40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/M40.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/M59.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/M59.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/M60.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/M60.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q101.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q1013.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q1013.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q1021.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q1021.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q1038.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q1038.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q104.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q104.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q1047.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q1047.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q1051.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q1051.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q1071.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q1071.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q1103.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q1103.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q111.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q111.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q112.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q112.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q1160.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q1160.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q120.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q120.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q121.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q121.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q122.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q122.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q125.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q125.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q1295.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q1295.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q136.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q136.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q141.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q141.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q151.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q151.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q153.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q153.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q155.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q155.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q160.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q160.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q167.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q167.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q169.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q169.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q189.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q189.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q198.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q198.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q206.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q209.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q209.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q213.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q213.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q215.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q215.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q217.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q217.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q226.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q226.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q231.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q231.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q234.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q234.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q258.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q258.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q263.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q263.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q264.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q264.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q278.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q278.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q283.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q283.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q300.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q300.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q303.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q303.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q322.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q322.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q334.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q334.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q344.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q344.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q345.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q345.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q365.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q365.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q374.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q374.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q38.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q389.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q389.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q409.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q409.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q41.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q414.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q414.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q448.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q448.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q461.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q461.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q504.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q504.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q51.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q51.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q52.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q52.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q53.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q53.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q538.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q538.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q539.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q539.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q543.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q543.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q551.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q551.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q559.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q559.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q58.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q58.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q581.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q581.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q617.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q617.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q62.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q62.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q628.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q628.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q63.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q63.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q66.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q66.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q67.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q67.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q69.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q69.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q695.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q695.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q70.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q70.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q704.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q704.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q709.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q709.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q712.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q712.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q72.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q72.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q728.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q728.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q746.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q746.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q747.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q747.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q75.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q75.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q754.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q754.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q796.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q796.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q804.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q804.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q836.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q836.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q866.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q866.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q88.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q88.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q899.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q899.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q931.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q931.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q945.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q945.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q961.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q961.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q962.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q962.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q965.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q965.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q976.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q976.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q977.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q977.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question/Q997.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q997.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/AT.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -17,6 +156,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaFXApplication" />
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -32,12 +172,13 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="4" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="112852f6-8fc9-4fdc-a387-6ed81255f36c" />
+  </component>
   <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
-      </MavenGeneralSettings>
-    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="vmOptionsForImporter" value="-Xmx768m" />
@@ -53,12 +194,19 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -66,60 +214,122 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\LeetCode" />
+      <recent name="D:\Code\LeetCode\test" />
+      <recent name="D:\Code\LeetCode\src\Anothers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code\LeetCode\src\Anothers" />
+      <recent name="D:\Code\LeetCode\src" />
+      <recent name="D:\Code\LeetCode\src\Others" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="LeetCode" />
+      <recent name="Anothers" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Anothers" />
       <recent name="Question" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AT">
-    <configuration name="AT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.AT" />
+  <component name="RunManager" selected="JUnit.Q540Test.singleNonDuplicate">
+    <configuration name="Hangman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Anothers.Hangman" />
       <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Anothers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Question.Q0" />
+    <configuration name="HangmanTest.insertGuessToArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Anothers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Anothers" />
+      <option name="MAIN_CLASS_NAME" value="Anothers.HangmanTest" />
+      <option name="METHOD_NAME" value="insertGuessToArray" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q316" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q316" />
+    <configuration name="HangmanTest.isLetterInWord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Anothers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Anothers" />
+      <option name="MAIN_CLASS_NAME" value="Anothers.HangmanTest" />
+      <option name="METHOD_NAME" value="isLetterInWord" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question.Q38" />
+    <configuration name="HangmanTest.isPlayerWin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Anothers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Anothers" />
+      <option name="MAIN_CLASS_NAME" value="Anothers.HangmanTest" />
+      <option name="METHOD_NAME" value="isPlayerWin" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q66" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question.Q66" />
+    <configuration name="Q540Test.singleNonDuplicate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LeetCode" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Q540Test" />
+      <option name="METHOD_NAME" value="singleNonDuplicate" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AT" />
-        <item itemvalue="Application.Q66" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Q316" />
-        <item itemvalue="Application.Q38" />
+        <item itemvalue="JUnit.Q540Test.singleNonDuplicate" />
+        <item itemvalue="Application.Hangman" />
+        <item itemvalue="JUnit.HangmanTest.insertGuessToArray" />
+        <item itemvalue="JUnit.HangmanTest.isPlayerWin" />
+        <item itemvalue="JUnit.HangmanTest.isLetterInWord" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +444,35 @@
       <workItem from="1641986291310" duration="1984000" />
       <workItem from="1642084229666" duration="1623000" />
       <workItem from="1642341698147" duration="2451000" />
-      <workItem from="1642518312326" duration="1768000" />
+      <workItem from="1642518312326" duration="2015000" />
+      <workItem from="1642590320437" duration="10027000" />
+      <workItem from="1642778769287" duration="1225000" />
+      <workItem from="1642818441261" duration="1241000" />
+      <workItem from="1643194570824" duration="3160000" />
+      <workItem from="1643681808912" duration="1255000" />
+      <workItem from="1643787526918" duration="2357000" />
+      <workItem from="1643970366540" duration="925000" />
+      <workItem from="1644045647009" duration="3771000" />
+      <workItem from="1644405014125" duration="6407000" />
+      <workItem from="1644501816006" duration="8696000" />
+      <workItem from="1644560234853" duration="20813000" />
+      <workItem from="1644743685013" duration="4176000" />
+      <workItem from="1644840554401" duration="2090000" />
+      <workItem from="1645006249773" duration="6691000" />
+      <workItem from="1645275435683" duration="2791000" />
+      <workItem from="1645356333980" duration="1473000" />
+      <workItem from="1645444048313" duration="3488000" />
+      <workItem from="1645618370573" duration="620000" />
+      <workItem from="1645778158132" duration="1643000" />
+      <workItem from="1645798046244" duration="1863000" />
+      <workItem from="1645799981966" duration="155000" />
+      <workItem from="1645800217291" duration="7310000" />
+      <workItem from="1645837079821" duration="10280000" />
+      <workItem from="1646015538550" duration="1930000" />
+      <workItem from="1646017526127" duration="1019000" />
+      <workItem from="1646062719212" duration="1909000" />
+      <workItem from="1646183712597" duration="1465000" />
+      <workItem from="1646185487613" duration="6146000" />
     </task>
     <task id="LOCAL-00001" summary="7.21(增加12和1047)">
       <created>1563676552975</created>
@@ -299,7 +537,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642345836660</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="2022.01.18">
+      <created>1642520345441</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1642520345441</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,6 +577,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
     <MESSAGE value="7.21(增加12和1047)" />
     <MESSAGE value="7.22(增加169)" />
     <MESSAGE value="7.24(增加38)" />
@@ -342,6 +588,24 @@
     <MESSAGE value="1.4" />
     <MESSAGE value="1.5" />
     <MESSAGE value="2022.01.16" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.01.16" />
+    <MESSAGE value="2022.01.18" />
+    <MESSAGE value="2022.02.14" />
+    <MESSAGE value="2022.02.28" />
+    <MESSAGE value="2022.03.02" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.03.02" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
