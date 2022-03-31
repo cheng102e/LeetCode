@@ -1,6 +1,7 @@
 package LeetCode;
 
 import java.util.HashMap;
+import java.util.Map;
 
 /**
  * @author Cheng102e
@@ -9,25 +10,22 @@ import java.util.HashMap;
  */
 public class Q3 {
 
-  public static int lengthOfLongestSubstring(String s) {
-    int len = s.length();
-    if (len == 0) {
-      return 0;
+    public static int lengthOfLongestSubstring(String s) {
+        Map<Character, Integer> window = new HashMap<>();
+        int len = s.length();
+        int left = 0, right = 0;
+        int ans = 0;
+        while (right < len) {
+            char ch = s.charAt(right);
+            right++;
+            window.put(ch, window.getOrDefault(ch, 0) + 1);
+            while (window.get(ch) > 1) {
+                char remove = s.charAt(left);
+                left++;
+                window.put(remove, window.get(remove) - 1);
+            }
+            ans = Math.max(ans, right - left);
+        }
+        return ans;
     }
-    HashMap<Character, Integer> map = new HashMap<Character, Integer>();
-    int max = 0;
-    int left = 0;
-    for (int right = 0; right < len; right++) {
-      if (map.containsKey(s.charAt(right))) {
-        left = Math.max(left, map.get(s.charAt(right)) + 1);
-      }
-      map.put(s.charAt(right), right);
-      max = Math.max(max, right - left + 1);
-    }
-    return max;
-  }
-
-  public static void main(String[] args) {
-    System.out.println("Hello World!");
-  }
 }

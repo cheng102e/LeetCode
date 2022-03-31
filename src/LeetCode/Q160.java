@@ -7,36 +7,34 @@ package LeetCode;
  */
 public class Q160 {
 
-  public class ListNode {
+    public class ListNode {
+        int val;
+        ListNode next;
 
-    int val;
-    ListNode next;
-
-    ListNode(int x) {
-      val = x;
-      next = null;
+        ListNode(int x) {
+            val = x;
+            next = null;
+        }
     }
-  }
 
-  public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
 
-    if (headA == null || headB == null) {
-      return null;
+    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+        if (headA == null || headB == null) {
+            return null;
+        }
+        ListNode pA = headA, pB = headB;
+        while (pA != pB) {
+            if (pA == null) {
+                pA = headB;
+            } else {
+                pA = pA.next;
+            }
+            if (pB == null) {
+                pB = headA;
+            } else {
+                pB = pB.next;
+            }
+        }
+        return pA;
     }
-    ListNode pA = headA, pB = headB;
-    while (pA != pB) {
-      if (pA == null) {
-        pA = headB;
-      } else {
-        pA = pA.next;
-      }
-      if (pB == null) {
-        pB = headA;
-      } else {
-        pB = pB.next;
-      }
-
-    }
-    return pA;
-  }
 }

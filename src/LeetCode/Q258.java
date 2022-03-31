@@ -1,23 +1,19 @@
 package LeetCode;
 
-import java.util.HashMap;
-import java.util.Map;
-
 public class Q258 {
-
-  public static int[] twoSum(int[] nums, int target) {
-    Map<Integer, Integer> map = new HashMap<>();
-    for (int i = 0; i < nums.length; i++) {
-      int number = target - nums[i];
-      if (map.containsKey(number)) {
-        return new int[]{map.get(number), i};
-      }
-      map.put(nums[i], i);
+    public int addDigits(int num) {
+        if (num == 0) {
+            return 0;
+        }
+        int ans = num % 9;
+        if (ans == 0) {
+            return 9;
+        } else {
+            return ans;
+        }
     }
-    throw new IllegalArgumentException("No two sum solution");
-  }
 
-  public static void main(String[] args) {
-    System.out.println("Hello World!");
-  }
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
 }

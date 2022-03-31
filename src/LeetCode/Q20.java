@@ -9,35 +9,36 @@ import java.util.Stack;
  */
 public class Q20 {
 
-  public boolean isValid(String s) {
-    Stack<Character> stack = new Stack<Character>();
-    for (char c : s.toCharArray()) {
-      if (c == ')' && !stack.isEmpty()) {
-        if (stack.peek() == '(') {
-          stack.pop();
-        } else {
-          return false;
+    public char match(char c) {
+        if (c == ')') {
+            return '(';
         }
-      } else if (c == ']' && !stack.isEmpty()) {
-        if (stack.peek() == '[') {
-          stack.pop();
-        } else {
-          return false;
+        if (c == '}') {
+            return '{';
         }
-      } else if (c == '}' && !stack.isEmpty()) {
-        if (stack.peek() == '{') {
-          stack.pop();
-        } else {
-          return false;
+        if (c == ']') {
+            return '[';
         }
-      } else {
-        stack.push(c);
-      }
+        return c;
     }
-    return stack.isEmpty();
-  }
 
-  public static void main(String[] args) {
-    System.out.println("Hello World!");
-  }
+    public boolean isValid(String s) {
+        Stack<Character> stack = new Stack<>();
+        char[] ch = s.toCharArray();
+        for (char c : ch) {
+            if (c == '(' || c == '[' || c == '{') {
+                stack.push(c);
+            } else {
+                if (stack.isEmpty() || stack.peek() != match(c)) {
+                    return false;
+                }
+                stack.pop();
+            }
+        }
+        if (stack.isEmpty()) {
+            return true;
+        }
+        return false;
+    }
+
 }

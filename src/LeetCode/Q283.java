@@ -7,21 +7,17 @@ package LeetCode;
  */
 public class Q283 {
 
-  public static void moveZeroes(int[] nums) {
-    int index = 0;
-    for (int i = 0; i < nums.length; i++) {
-      if (nums[i] != 0) {
-        nums[index] = nums[i];
-        index++;
-      }
-
+    public static void moveZeroes(int[] nums) {
+        int fast = 0, slow = 0;
+        while (fast < nums.length) {
+            if (nums[fast] != 0) {
+                nums[slow] = nums[fast];
+                slow++;
+            }
+            fast++;
+        }
+        while (slow < nums.length) {
+            nums[slow++] = 0;
+        }
     }
-    for (; index < nums.length; index++) {
-      nums[index] = 0;
-    }
-  }
-
-  public static void main(String[] args) {
-    System.out.println("Hello World!");
-  }
 }

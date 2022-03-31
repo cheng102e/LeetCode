@@ -6,25 +6,26 @@ package LeetCode;
  * @date 2020-02-27 17:11
  */
 public class Q303 {
+    private int[] preSum;
 
-  private int[] sum;
+    public void NumArray(int[] nums) {
 
-  public void NumArray(int[] nums) {
-    if (nums.length == 0) {
-      return;
-    }
-    sum = new int[nums.length];
-    sum[0] = nums[0];
-    for (int i = 1; i < nums.length; i++) {
-      sum[i] += sum[i - 1] + nums[i];
-    }
-  }
+        int n = nums.length;
 
-  public int sumRange(int i, int j) {
-    if (i == 0) {
-      return sum[j];
-    } else {
-      return sum[j] - sum[i - 1];
+        preSum = new int[n + 1];
+        //第i位之前的和，不包括第i位
+
+        for (int i = 1; i <= n; i++) {
+            preSum[i] = nums[i - 1] + preSum[i - 1];
+        }
     }
-  }
+
+    public int sumRange(int i, int j) {
+        return preSum[j + 1] - preSum[i];
+    }
+    /**
+     * Your NumArray object will be instantiated and called as such:
+     * NumArray obj = new NumArray(nums);
+     * int param_1 = obj.sumRange(left,right);
+     */
 }

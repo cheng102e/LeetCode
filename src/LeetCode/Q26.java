@@ -7,18 +7,16 @@ package LeetCode;
  */
 public class Q26 {
 
-  public static int removeDuplicates(int[] nums) {
-    int index = 0;
-    for (int i = 0; i < nums.length; i++) {
-      if (nums[i] != nums[index]) {
-        index++;
-        nums[index] = nums[i];
-      }
+    public static int removeDuplicates(int[] nums) {
+        int slow = 0, fast = 0;
+        while (fast < nums.length) {
+            if (nums[fast] != nums[slow]) {
+                slow++;
+                nums[slow] = nums[fast];
+            }
+            fast++;
+        }
+        return slow + 1;
     }
-    return index + 1;
-  }
 
-  public static void main(String[] args) {
-    System.out.println("Hello World!");
-  }
 }
