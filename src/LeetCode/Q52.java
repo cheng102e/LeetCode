@@ -1,46 +1,45 @@
 package LeetCode;
 
+import java.util.HashSet;
+
 public class Q52 {
+    HashSet<String> ans = new HashSet<>();
+    int[] queen;
 
-  //列
-  private static boolean col[];
-
-  //正对角线 x-y+n-1
-  private static boolean line1[];
-
-  //斜对角线 x+y
-  private static boolean line2[];
-
-  public static int totalNQueens(int n) {
-    col = new boolean[n];
-    line1 = new boolean[2 * n - 1];
-    line2 = new boolean[2 * n - 1];
-    return putQueen(n, 0);
-  }
-
-  private static int putQueen(int n, int index) {
-    int flag = 0;
-    if (index == n) {
-      return 1;
+    public int totalNQueens(int n) {
+        queen = new int[n];
+        place(0, n);
+        return ans.size();
     }
 
-    for (int i = 0; i < n; i++) {
-      if (!col[i] && !line1[i - index + n - 1] && !line2[i + index]) {
-
-        col[i] = true;
-        line1[i - index + n - 1] = true;
-        line2[i + index] = true;
-        flag = flag + putQueen(n, index + 1);
-
-        col[i] = false;
-        line1[i - index + n - 1] = false;
-        line2[i + index] = false;
-      }
+    public String getans(int n) {
+        StringBuffer s = new StringBuffer();
+        for (int i = 0; i < n; i++) {
+            s.append(queen[i]);
+        }
+        return s.toString();
     }
-    return flag;
-  }
 
-  public static void main(String[] args) {
-    System.out.println("Hello World!");
-  }
+    public void place(int t, int n) {
+        if (t == n) {
+            ans.add(getans(n));
+            return;
+        }
+        for (int i = 0; i < n; i++) {
+            if (check(t, i, n)) {
+                queen[t] = i;
+                place(t + 1, n);
+                queen[t] = 0;
+            }
+        }
+    }
+
+    public boolean check(int t, int x, int n) {
+        for (int i = 0; i < t; i++) {
+            if (queen[i] == x || queen[i] == x - t + i || queen[i] == x + t - i) {
+                return false;
+            }
+        }
+        return true;
+    }
 }

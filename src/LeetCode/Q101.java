@@ -7,36 +7,36 @@ package LeetCode;
  */
 public class Q101 {
 
-  public class TreeNode {
+    public class TreeNode {
 
-    int val;
-    TreeNode left;
-    TreeNode right;
+        int val;
+        TreeNode left;
+        TreeNode right;
 
-    TreeNode(int x) {
-      val = x;
+        TreeNode(int x) {
+            val = x;
+        }
     }
-  }
 
-  public boolean test(TreeNode l, TreeNode r) {
-    if (l == null && r == null) {
-      return true;
+    public boolean compare(TreeNode l, TreeNode r) {
+        if (l == null && r == null) {
+            return true;
+        }
+        if (l == null || r == null) {
+            return false;
+        }
+        if (l.val == r.val) {
+            return compare(l.left, r.right) && compare(l.right, r.left);
+        } else {
+            return false;
+        }
     }
-    if (l == null || r == null) {
-      return false;
-    }
-    if (l.val == r.val) {
-      return test(l.left, r.right) && test(l.right, r.left);
-    } else {
-      return false;
-    }
-  }
 
-  public boolean isSymmetric(TreeNode root) {
-    if (root == null) {
-      return true;
-    } else {
-      return test(root.left, root.right);
+    public boolean isSymmetric(TreeNode root) {
+        if (root == null) {
+            return true;
+        } else {
+            return compare(root.left, root.right);
+        }
     }
-  }
 }

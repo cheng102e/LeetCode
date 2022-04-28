@@ -10,39 +10,43 @@ import java.util.Map;
  */
 public class Q76 {
     public static String minWindow(String s, String t) {
-
+        char[] sc = s.toCharArray();
+        char[] tc = t.toCharArray();
         Map<Character, Integer> window = new HashMap();
         Map<Character, Integer> need = new HashMap();
         int slen = s.length(), tlen = t.length();
         for (int i = 0; i < tlen; i++) {
-            char c = t.charAt(i);
+            char c = tc[i];
             need.put(c, need.getOrDefault(c, 0) + 1);
         }
-        int left = 0, right = 0;
+        int left = 0;
         int valid = 0;
-        int start = 0, len = tlen+slen + 1;
-        while (right < slen) {
-            char addch = s.charAt(right);
+        int start = 0, len = tlen + slen + 1;
+        for (int i = 0; i < slen; i++) {
+            char addch = sc[i];
             window.put(addch, window.getOrDefault(addch, 0) + 1);
-            right++;
-
             if (need.containsKey(addch) && window.get(addch).equals(need.get(addch))) {
                 valid++;
             }
+
             while (valid == need.size()) {
-                if (right - left < len) {
+                if (i - left + 1 < len) {
                     start = left;
-                    len = right - left;
+                    len = i - left + 1;
                 }
-                char rech = s.charAt(left);
-                if (need.containsKey(rech) && window.get(rech).equals(need.get(rech))) {
+                char tmp = sc[left];
+                if (need.containsKey(tmp) && window.get(tmp).equals(need.get(tmp))) {
                     valid--;
                 }
-                window.put(rech, window.get(rech) - 1);
+                window.put(tmp, window.get(tmp) - 1);
                 left++;
             }
         }
-        return len == tlen+slen + 1 ? "" : s.substring(start, start + len);
+        if (len == tlen + slen + 1) {
+            return "";
+        } else {
+            return s.substring(start, start + len);
+        }
     }
 
 }

@@ -7,26 +7,24 @@ package LeetCode;
  */
 public class Q209 {
 
-  public int minSubArrayLen(int s, int[] nums) {
-    int len = nums.length;
-    int sum = 0;
-    int min = Integer.MAX_VALUE;
-    int left = 0;
-    for (int right = 0; right < len; right++) {
-      sum += nums[right];
-      while (sum >= s) {
-        min = Math.min(min, right - left + 1);
-        sum -= nums[left];
-        left++;
-      }
+    public int minSubArrayLen(int target, int[] nums) {
+        int left = 0;
+        int sum = 0;
+        int min = Integer.MAX_VALUE;
+        for (int i = 0; i < nums.length; i++) {
+            sum += nums[i];
+            if (sum >= target) {
+                min = Math.min(min, i - left + 1);
+            }
+            while (sum - nums[left] >= target) {
+                sum -= nums[left++];
+                min = Math.min(min, i - left + 1);
+            }
+        }
+        if (min == Integer.MAX_VALUE) {
+            return 0;
+        }
+        return min;
     }
-    if (min == Integer.MAX_VALUE) {
-      return 0;
-    }
-    return min;
-  }
 
-  public static void main(String[] args) {
-    System.out.println("Hello World!");
-  }
 }

@@ -1,59 +1,54 @@
 package LeetCode;
 
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.List;
 
 public class Q51 {
+    static List<List<String>> ans = new ArrayList<>();
+    static int[] queen;
 
-  private static boolean col[];
-  private static boolean line1[];
-  private static boolean line2[];
-  private static int answer[];
-  private static List<List<String>> res = new LinkedList<>();
+    public static List<List<String>> solveNQueens(int n) {
+        queen = new int[n];
+        place(0, n);
+        return ans;
+    }
 
-  public static List<List<String>> solveNQueens(int n) {
-    col = new boolean[n];
-    line1 = new boolean[2 * n - 1];
-    line2 = new boolean[2 * n - 1];
-    answer = new int[n];
-    res.clear();
-    putQueen(n, 0);
-    return res;
-  }
-
-  private static void putQueen(int n, int index) {
-    if (index == n) {
-      List<String> item = new ArrayList<String>();
-      for (int i = 0; i < answer.length; i++) {
-        StringBuilder sb = new StringBuilder();
-        for (int j = 0; j < answer.length; j++) {
-          if (answer[i] != j) {
-            sb.append('.');
-          } else {
-            sb.append('Q');
-          }
+    public static List<String> getans(int n) {
+        List<String> tmp = new ArrayList<>();
+        for (int i = 0; i < n; i++) {
+            StringBuffer s = new StringBuffer();
+            for (int j = 0; j < queen[i]; j++) {
+                s.append(".");
+            }
+            s.append("Q");
+            for (int j = queen[i] + 1; j < n; j++) {
+                s.append(".");
+            }
+            tmp.add(s.toString());
         }
-        item.add(sb.toString());
-      }
-      res.add(item);
+        return tmp;
     }
 
-    for (int i = 0; i < n; i++) {
-      if (!col[i] && !line1[i - index + n - 1] && !line2[i + index]) {
-        answer[index] = i;
-        col[i] = true;
-        line1[i - index + n - 1] = true;
-        line2[i + index] = true;
-
-        col[i] = false;
-        line1[i - index + n - 1] = false;
-        line2[i + index] = false;
-      }
+    public static void place(int t, int n) {
+        if (t == n) {
+            ans.add(getans(n));
+            return;
+        }
+        for (int i = 0; i < n; i++) {
+            if (check(t, i, n)) {
+                queen[t] = i;
+                place(t + 1, n);
+                queen[t] = 0;
+            }
+        }
     }
-  }
 
-  public static void main(String[] args) {
-    System.out.println("Hello World!");
-  }
+    public static boolean check(int t, int x, int n) {
+        for (int i = 0; i < t; i++) {
+            if (queen[i] == x || queen[i] == x - t + i || queen[i] == x + t - i) {
+                return false;
+            }
+        }
+        return true;
+    }
 }

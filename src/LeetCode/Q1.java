@@ -1,26 +1,19 @@
 package LeetCode;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class Q1 {
-
-  public static int reachNumber(int target) {
-    target = Math.abs(target);
-    int count = 0;
-    int sum = 0;
-    while (sum < target) {
-      count++;
-      sum = sum + count;
+    public int[] twoSum(int[] nums, int target) {
+        Map<Integer, Integer> map = new HashMap<>();
+        for (int i = 0; i < nums.length; i++) {
+            if (map.containsKey(target - nums[i])) {
+                return new int[]{map.get(target - nums[i]), i};
+            }else {
+              map.put(nums[i],i);
+            }
+        }
+        return null;
     }
-    if ((sum - target) % 2 != 0) {
-      if (count % 2 == 0) {
-        count = count + 1;
-      } else {
-        count = count + 2;
-      }
-    }
-    return count;
-  }
 
-  public static void main(String[] args) {
-    System.out.println("Hello World!");
-  }
 }

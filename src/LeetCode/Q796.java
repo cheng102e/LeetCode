@@ -7,15 +7,12 @@ package LeetCode;
  */
 public class Q796 {
 
-  public static boolean rotateString(String A, String B) {
-    if (A.length() == B.length() && ((A + A).contains(B))) {
-      return true;
-    } else {
-      return false;
+    public boolean rotateString(String s, String goal) {
+        String ss = s + s;
+        if (ss.contains(goal) && (s.length() == goal.length())) {
+            return true;
+        } else {
+            return false;
+        }
     }
-  }
-
-  public static void main(String[] args) {
-    System.out.println("Hello World!");
-  }
 }
