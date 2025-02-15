@@ -1,57 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9189d315-1302-460e-9080-262b39414fc8" name="Default Changelist" comment="2022.03.02">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q105.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q106.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q1137.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q114.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q116.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q1491.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q1523.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q207.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q210.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q239.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q367.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q509.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q54.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q59.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q654.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q797.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q844.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q852.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q889.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Q904.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/LeetCode/Q51Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Anothers/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Anothers/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Q0.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Q101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q101.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Q167.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q167.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Q209.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q209.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Q226.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q226.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Q278.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q278.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Q322.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q322.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Q35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q35.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Q374.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q374.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Q51.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q51.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Q52.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q52.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Q53.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q53.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Q69.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q69.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Q70.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q70.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Q704.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q704.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Q76.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q76.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Q796.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q796.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Q977.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Q977.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/leetcode/editor/cn/[540]有序数组中的单一元素.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/leetcode/editor/cn/doc/content/[540]有序数组中的单一元素.md" beforeDir="false" />
-    </list>
+    <list default="true" id="9189d315-1302-460e-9080-262b39414fc8" name="Default Changelist" comment="2025.02.15 重构目录" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,16 +37,14 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="4" />
   </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="112852f6-8fc9-4fdc-a387-6ed81255f36c" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$PROJECT_DIR$/../../Workspace/apache-maven-3.8.4" />
+        <option name="customMavenHome" value="$PROJECT_DIR$/../../Workspace/apache-maven-3.8.4" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
         <option name="userSettingsFile" value="D:\Workspace\apache-maven-3.8.4\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -106,6 +54,9 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
   <component name="ProjectId" id="1OVECNqSb8CLS7ieMIzXlPcGyxv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -114,14 +65,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Code/Project/LeetCode",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
@@ -158,11 +116,11 @@
   </component>
   <component name="RunManager" selected="应用程序.Q59">
     <configuration name="Q59" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Q59" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Q100.Q59" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.*" />
+          <option name="PATTERN" value="LeetCode.M.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +129,11 @@
       </method>
     </configuration>
     <configuration name="Q69" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Q69" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Q100.Q69" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.*" />
+          <option name="PATTERN" value="LeetCode.M.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,11 +142,11 @@
       </method>
     </configuration>
     <configuration name="Q76" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Q76" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Q100.Q76" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.*" />
+          <option name="PATTERN" value="LeetCode.M.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,11 +155,11 @@
       </method>
     </configuration>
     <configuration name="Q904" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Q904" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Q1000.Q904" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.*" />
+          <option name="PATTERN" value="LeetCode.M.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,11 +168,11 @@
       </method>
     </configuration>
     <configuration name="Q977" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Q977" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Q1000.Q977" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.*" />
+          <option name="PATTERN" value="LeetCode.M.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -514,13 +472,35 @@
       <option name="project" value="LOCAL" />
       <updated>1642520345441</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="2025.02.15 重构目录">
+      <option name="closed" value="true" />
+      <created>1739591606356</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1739591606356</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -538,20 +518,6 @@
                 </map>
               </option>
             </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list />
-          </value>
-        </entry>
-        <entry key="User">
-          <value>
-            <list />
           </value>
         </entry>
       </map>
@@ -574,7 +540,8 @@
     <MESSAGE value="2022.02.14" />
     <MESSAGE value="2022.02.28" />
     <MESSAGE value="2022.03.02" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.03.02" />
+    <MESSAGE value="2025.02.15 重构目录" />
+    <option name="LAST_COMMIT_MESSAGE" value="2025.02.15 重构目录" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -596,42 +563,42 @@
           <option name="timeStamp" value="13" />
         </breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Q1011.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Q2000/Q1011.java</url>
           <line>31</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Q69.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Q100/Q69.java</url>
           <line>17</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Q977.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Q1000/Q977.java</url>
           <line>9</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Q76.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Q100/Q76.java</url>
           <line>24</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Q904.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Q1000/Q904.java</url>
           <line>15</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Q904.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Q1000/Q904.java</url>
           <line>18</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Q904.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Q1000/Q904.java</url>
           <line>30</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Q59.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Q100/Q59.java</url>
           <line>18</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
@@ -644,9 +611,9 @@
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Q51.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Q100/Q51.java</url>
           <line>31</line>
-          <properties class="LeetCode.Q51" method="place">
+          <properties class="LeetCode.Q100.Q51">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="11" />
