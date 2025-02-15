@@ -1,5 +1,6 @@
 package LeetCode;
 
+import LeetCode.Q2000.Q1011;
 import org.junit.jupiter.api.Test;
 
 /**

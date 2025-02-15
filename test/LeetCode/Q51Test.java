@@ -1,5 +1,6 @@
 package LeetCode;
 
+import LeetCode.Q100.Q51;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

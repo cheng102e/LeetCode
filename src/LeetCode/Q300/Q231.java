@@ -1,0 +1,18 @@
+package LeetCode.Q300;
+
+/**
+ * @author Cheng102e
+ * @version 1.0
+ * @date 2020/1/4 14:32
+ */
+public class Q231 {
+
+  public static boolean isPowerOfTwo(int n) {
+    return (n > 0) && ((n & -n) == n);
+    //  return (n > 0) && ((n & (n - 1)) == 0);
+  }
+
+  public static void main(String[] args) {
+    System.out.println("Hello World!");
+  }
+}
