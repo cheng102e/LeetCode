@@ -1,5 +1,7 @@
 package LeetCode.Q200;
 
+import Model.TreeNode;
+
 /**
  * @author Cheng102e
  * @version 1.0
@@ -7,36 +9,26 @@ package LeetCode.Q200;
  */
 public class Q101 {
 
-    public class TreeNode {
-
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode(int x) {
-            val = x;
-        }
-    }
-
-    public boolean compare(TreeNode l, TreeNode r) {
-        if (l == null && r == null) {
-            return true;
-        }
-        if (l == null || r == null) {
-            return false;
-        }
-        if (l.val == r.val) {
-            return compare(l.left, r.right) && compare(l.right, r.left);
-        } else {
-            return false;
-        }
-    }
-
     public boolean isSymmetric(TreeNode root) {
         if (root == null) {
             return true;
+        }
+        return compare(root.left, root.right);
+    }
+
+    public boolean compare(TreeNode left, TreeNode right) {
+        if (left == null && right == null) {
+            // 两节点为空
+            return true;
+        } else if (left == null || right == null) {
+            // 两节点仅一个为空
+            return false;
+        } else if (left.val == right.val) {
+            // 交叉比较
+            return compare(left.left, right.right) && compare(left.right, right.left);
         } else {
-            return compare(root.left, root.right);
+            // 两节点不等
+            return false;
         }
     }
 }

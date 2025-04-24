@@ -11,22 +11,17 @@ public class Q322 {
 
     public int coinChange(int[] coins, int amount) {
         int[] dp = new int[amount + 1];
-
+        // 用amount+1避免溢出
         Arrays.fill(dp, amount + 1);
         dp[0] = 0;
-
-        for (int i = 0; i < dp.length; i++) {
-            for (int coin : coins) {
-                if (i - coin >= 0) {
-                    dp[i] = Math.min(dp[i], 1 + dp[i - coin]);
+        for (int i = 0; i < amount + 1; i++) {
+            for (int j = 0; j < coins.length; j++) {
+                if (i >= coins[j]) {
+                    // 用或不用该硬币
+                    dp[i] = Math.min(dp[i - coins[j]] + 1, dp[i]);
                 }
             }
         }
-
-        if (dp[amount] == amount + 1) {
-            return -1;
-        } else {
-            return dp[amount];
-        }
+        return dp[amount] == amount + 1 ? -1 : dp[amount];
     }
 }

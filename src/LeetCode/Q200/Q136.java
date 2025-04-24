@@ -7,16 +7,13 @@ package LeetCode.Q200;
  */
 public class Q136 {
 
-  public static int singleNumber(int[] nums) {
-    int n = 0;
-    for (int i = 0; i < nums.length; i++) {
-      n = n ^ nums[i];
+    public static int singleNumber(int[] nums) {
+        int single = 0;
+        // 相同数异或为0，0异或其他为原数
+        for (int num : nums) {
+            single = single ^ num;
+        }
+        return single;
     }
-    return n;
-  }
-
-  public static void main(String[] args) {
-    System.out.println("Hello World!");
-  }
 
 }
