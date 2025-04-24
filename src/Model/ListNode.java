@@ -1,4 +1,4 @@
-package todo.Model;
+package Model;
 
 public class ListNode {
       public int val;
