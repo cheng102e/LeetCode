@@ -1,4 +1,4 @@
-package todo.Dynamic;
+package LeetCode.Q200;
 
 public class Q123 {
     public int maxProfit(int[] prices) {

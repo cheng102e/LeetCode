@@ -13,11 +13,11 @@ public class Q206 {
     public ListNode reverseList(ListNode head) {
         ListNode pre = null;
         ListNode cur = head;
-        while (cur != null) {
-            ListNode tmp = cur.next;
-            cur.next = pre;
-            pre = cur;
-            cur = tmp;
+        while (cur!=null){
+            ListNode tmp = cur;
+            cur = cur.next;
+            tmp.next = pre;
+            pre = tmp;
         }
         return pre;
     }

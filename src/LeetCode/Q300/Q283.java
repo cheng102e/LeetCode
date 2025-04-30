@@ -7,17 +7,23 @@ package LeetCode.Q300;
  */
 public class Q283 {
 
-    public static void moveZeroes(int[] nums) {
-        int fast = 0, slow = 0;
-        while (fast < nums.length) {
-            if (nums[fast] != 0) {
-                nums[slow] = nums[fast];
-                slow++;
+    public void moveZeroes(int[] nums) {
+        int n = nums.length;
+        // left 前的均不为0
+        int left = 0;
+        for (int right = 0; right < n; right++) {
+            // 将非0移动到前面，移动完后自然只剩0
+            if (nums[right] != 0) {
+                swap(nums, left++, right);
             }
-            fast++;
         }
-        while (slow < nums.length) {
-            nums[slow++] = 0;
-        }
+
     }
+
+    public void swap(int[] nums, int l, int r) {
+        int num = nums[l];
+        nums[l] = nums[r];
+        nums[r] = num;
+    }
+
 }

@@ -8,16 +8,13 @@ package LeetCode.Q100;
 public class Q53 {
 
     public static int maxSubArray(int[] nums) {
-        int ans = nums[0];
+        int max = nums[0];
         int sum = 0;
+        // 直接获取最大值
         for (int num : nums) {
-            if (sum >= 0) {
-                sum += num;
-            } else {
-                sum = num;
-            }
-            ans = Math.max(sum, ans);
+            sum = Math.max(sum + num, num);
+            max = Math.max(sum, max);
         }
-        return ans;
+        return max;
     }
 }
